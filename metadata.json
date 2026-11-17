@@ -1,0 +1,6 @@
+{
+  "name": "Mixa",
+  "description": "Unified Android music player blending local audio files with native YouTube Music streaming and Mornye extensions via Media3 ExoPlayer, InnerTube API, Room playlists, and a studio equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

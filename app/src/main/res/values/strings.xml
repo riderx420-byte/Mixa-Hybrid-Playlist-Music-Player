@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mixa</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_radio">Radio</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_studio_eq">Settings</string>
+    <string name="action_scan_library">Scan Device</string>
+    <string name="action_import_audio">Import File</string>
+    <string name="action_start_radio">Start Radio</string>
+    <string name="action_play_all">Play All</string>
+    <string name="action_shuffle_all">Shuffle</string>
+    <string name="action_create_playlist">New Playlist</string>
+    <string name="label_now_playing">Now Playing</string>
+    <string name="label_up_next">Up Next</string>
+    <string name="label_auto_radio">Auto-Radio</string>
+    <string name="label_empty_library_title">No local tracks indexed yet</string>
+    <string name="label_empty_library_subtitle">Grant audio permission to scan device folders, or import individual MP3/FLAC files directly.</string>
+    <string name="label_search_hint">Search YouTube Music songs, albums, artists…</string>
+</resources>
